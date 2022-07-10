@@ -22784,7 +22784,7 @@ A.f(m)
 l=A.a(["function deposit(uint)"],t.s)
 k=A.c7(u.H,l,new A.e2(J.hi(("ethereum" in window.window||"BinanceChain" in window.window?new A.er(new ethers.providers.Web3Provider(t.g.a(A.bx()).a)):null).a),t.v))
 s=7
-return A.I(J.pq(k,"deposit",[A.c6(a*1e17)]),$async$xp)
+return A.I(J.pq(k,"deposit",[A.c6(a*1e18)]),$async$xp)
 case 7:j=c
 J.Xq(j.a)
 i=j.lD()
