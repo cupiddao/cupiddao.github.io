@@ -22540,7 +22540,6 @@ f.bR(0)
 s=8
 return A.I(J.cz(n,"depositLP",[A.f(J.ea(A.bx().a))],h),$async$ks)
 case 8:k=b
-A.f(k)
 f=A.cc(A.bY(),g)
 e=A.bL(1e18)
 f.p4=f.eh(B.d.i(J.jZ(k)/e.cp(0)))
@@ -72339,6 +72338,7 @@ Jm(a){}}
 A.nz.prototype={
 eh(a){var s,r,q,p,o,n,m="."
 if(A.dz(a))return""
+if(B.c.C(a,"e-14"))return"0"
 if(A.ev(a)===0)return a
 if(A.ev(a)<1){s=a.split(m)[0]
 r=a.split(m)[1]
