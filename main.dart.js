@@ -75087,10 +75087,10 @@ b=A.eo(a8,30)
 return A.p(a2,A.by(A.a([b4,b5,s,q,r,k,b6,A.p(a2,A.by(A.a([c,l,m,a1,i,h,A.jZ(A.bk(!1,!0,A.p(a2,A.bd(A.U("LP\u8d28\u62bc",5,a3,!0,!0,a4,B.h,0.2),a2,a2),a2,a2,b,a2,a2,f,e,330),a2,!0,a2,a2,a2,a2,a2,a2,a2,a2,a2,new A.ao3(b3),a2,a2,a2),g)],p),B.n,a2,B.m,B.k),a2,a2,o,a2,a2,n,d,j-20)],p),B.n,a2,B.m,B.k),new A.Y(4294967295),a2,a2,a2,a2,a2,a2,a2)},
 $S:49}
 A.anY.prototype={
-$2(a,b){var s,r=null,q="images/banner1.jpg",p=A.ag(10,10,0,0),o=$.bn().gbD(),n=$.bn().gbD()
+$2(a,b){var s,r=null,q="images/banner1.png",p=A.ag(10,10,0,0),o=$.bn().gbD(),n=$.bn().gbD()
 if(b===0)s=q
-else if(b===1)s="images/banner2.jpg"
-else s=b===2?"images/banner3.jpg":q
+else if(b===1)s="images/banner2.png"
+else s=b===2?"images/banner3.png":q
 return A.p(r,A.ati(B.ip,new A.ki(s)),r,r,r,n*0.55,r,p,r,o)},
 $S:107}
 A.anZ.prototype={
@@ -75387,10 +75387,10 @@ b=A.eo(a8,30)
 return A.p(a2,A.by(A.a([b4,b5,s,q,r,k,b6,A.p(a2,A.by(A.a([c,l,m,a1,i,h,A.jZ(A.bk(!1,!0,A.p(a2,A.bd(A.U("LP\u8d28\u62bc",5,a3,!0,!0,a4,B.h,0.2),a2,a2),a2,a2,b,a2,a2,f,e,330),a2,!0,a2,a2,a2,a2,a2,a2,a2,a2,a2,new A.anU(b3),a2,a2,a2),g)],p),B.n,a2,B.m,B.k),a2,a2,o,a2,a2,n,d,j-20)],p),B.n,a2,B.m,B.k),new A.Y(4294967295),a2,a2,a2,a2,a2,a2,a2)},
 $S:49}
 A.anO.prototype={
-$2(a,b){var s,r=null,q="images/banner1.jpg",p=A.ag(10,10,0,0),o=$.bn().gbD(),n=$.bn().gbD()
+$2(a,b){var s,r=null,q="images/banner1.png",p=A.ag(10,10,0,0),o=$.bn().gbD(),n=$.bn().gbD()
 if(b===0)s=q
-else if(b===1)s="images/banner2.jpg"
-else s=b===2?"images/banner3.jpg":q
+else if(b===1)s="images/banner2.png"
+else s=b===2?"images/banner3.png":q
 return A.p(r,A.ati(B.ip,new A.ki(s)),r,r,r,n*0.55,r,p,r,o)},
 $S:107}
 A.anP.prototype={
