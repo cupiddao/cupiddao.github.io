@@ -23640,7 +23640,7 @@ case 1:return A.G(p,r)}})
 return A.I($async$rY,r)},
 Nd(){var s=0,r=A.J(t.z),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$Nd=A.K(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:f="http://64.190.113.124:8080/userInfo?address="
+s=p}while(true)switch(s){case 0:f="https://cupiddao.org/userInfo?address="
 e=J
 s=3
 return A.y(A.aV().ma(),$async$Nd)
